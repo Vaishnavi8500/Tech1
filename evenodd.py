@@ -1,5 +1,5 @@
-a=10
+a=20
 if a % 2==0:
-	print("Even Number")
+	print("Eveen Number")
 else:
-	print("Odd Number")
+	print("Oddd Number")
