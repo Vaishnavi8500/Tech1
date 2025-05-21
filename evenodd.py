@@ -1,5 +1,6 @@
-a=20
-if a % 2==0:
-	print("Eveen Number")
+num = int(input("Enter a number: "))
+
+if num % 2 == 0:
+    print(f"The number {num} is Even.")
 else:
-	print("Oddd Number")
+    print(f"The number {num} is Odd.")
